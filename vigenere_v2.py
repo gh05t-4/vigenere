@@ -1,15 +1,5 @@
-
-"""
-
-Created on Mon Jul 15 11:16:02 2019
-
- 
-
-@author: Sucheth
-
-"""
-
- 
+# Small Python program that demonstrates vigenere cipher
+# Created by SKS bros.
 
 count=0
 
@@ -24,6 +14,8 @@ print("1.Encryption")
 print("2.Decryption")
 
 i=input("Choose an option(1 or 2 ): ")
+
+# condition for encrypting or decrypting
 
 if(i=="1"):
 
